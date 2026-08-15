@@ -1,0 +1,186 @@
+{
+  "_note": "Optional per-reel details. Key = file name without extension. Set order to rearrange (1,2,3...). Set hide: true to remove from the site without deleting the file.",
+  "_example": { "title": "My best reel", "category": "Products", "description": "A short description of what this video shows.", "tags": ["hook", "product", "launch"], "order": 1 },
+  "copy_0286DA4D-06B6-44AD-8CC6-AA2039020D5F": {
+    "title": "Reel 01",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_033C1E66-6F8A-4D2D-81DE-D65626510746": {
+    "title": "Reel 02",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_146EBE51-82C0-4966-AD7C-CDC353FBC2F5": {
+    "title": "Reel 03",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_3F07BD1A-486F-41AA-953C-B8CDE6DBFCA1": {
+    "title": "Reel 04",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_470AFEE0-D2E2-483F-8AB5-0B6930717D13": {
+    "title": "Reel 05",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_47616138-020F-4674-B390-B02FA3F27894": {
+    "title": "Reel 06",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_4A47C985-3E8A-4FC2-B318-8A6A30C7291D": {
+    "title": "Reel 07",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_4C3E3A47-2EE2-49E1-B202-10C509A492C5": {
+    "title": "Reel 08",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_4EFCE0B8-011D-4D3C-A0B7-583BCD9694FA": {
+    "title": "Reel 09",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_5EEBEB66-298C-4A26-B1D4-01A17B38802D": {
+    "title": "Reel 10",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_65108334-DB7B-41DA-B0D9-20749AB769AD": {
+    "title": "Reel 11",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_65A68B13-20DE-4AA4-B8C3-7D08B9D8123C": {
+    "title": "Reel 12",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_723BB79D-2EB0-4467-BD14-82A315FDF8D0": {
+    "title": "Reel 13",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_7ECFD7B0-552D-4E14-A263-C5EED50D8C58": {
+    "title": "Reel 14",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_8813F99D-FBF2-476B-8A78-7668A9340003": {
+    "title": "Reel 15",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_9442F0B4-30A5-4D1B-947A-2C1F9C544EA1": {
+    "title": "Reel 16",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_9AC7E410-E6DE-45CC-ADC4-0FCC3F345B02": {
+    "title": "Reel 17",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_A2BB875F-73C1-415C-A38C-4D0103964A97": {
+    "title": "Reel 18",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_AD7C77E2-9C0C-48D2-89D3-3E3347E30A35": {
+    "title": "Reel 19",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_B992DE6D-B5A2-4D11-94BA-FFF4692AC124": {
+    "title": "Reel 20",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_BB0EB4B3-92E2-4D61-AD36-84252CE40440": {
+    "title": "Reel 21",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_C095F4BC-3510-4B7B-B863-BC642EA8A864": {
+    "title": "Reel 22",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_C16F10D6-5A04-43F8-BFF6-2B5D518A1B15": {
+    "title": "Reel 23",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_DAB6B05E-C02A-459B-A095-C91CB8C3F4A0": {
+    "title": "Reel 24",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_EDA348E5-E615-4314-A455-B6F42E0381C4": {
+    "title": "Reel 25",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  },
+  "copy_F56869C5-50A0-4392-991B-AEDD0DDAEFEB": {
+    "title": "Reel 26",
+    "category": "Products",
+    "description": "Product reel for social media.",
+    "tags": ["product", "reel"],
+    "order": 999
+  }
+}
