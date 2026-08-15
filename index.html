@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Portfolio of short-form product videos and social media reels." />
+  <title>Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>▶</text></svg>" />
+</head>
+<body>
+
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a class="brand" href="#top" id="nav-brand">Portfolio</a>
+      <div class="nav-links">
+        <a href="#work">Work</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-inner">
+      <p class="hero-eyebrow" id="hero-eyebrow"></p>
+      <h1 class="hero-title" id="hero-title"></h1>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="#work">View Work</a>
+        <a class="btn btn-ghost" href="#contact">Get in Touch</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="section" id="work">
+      <div class="section-head">
+        <h2 class="section-title">Selected Work</h2>
+        <div class="filters" id="filters" role="tablist" aria-label="Filter work"></div>
+        <div class="search-wrap">
+          <input id="search" type="search" placeholder="Search reels…" aria-label="Search work" autocomplete="off" />
+        </div>
+      </div>
+      <div class="grid" id="grid"></div>
+      <p class="empty" id="empty" hidden>No results match your search.</p>
+    </section>
+
+    <section class="section" id="contact">
+      <h2 class="section-title">Contact</h2>
+      <p class="contact-intro">Let's make something people actually watch. Reach out for edits, reels, or freelance work.</p>
+      <div class="contact-links" id="contact-links"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>&copy; <span id="year"></span> <span id="foot-name"></span> — All work shown was edited by me.</p>
+  </footer>
+
+  <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Video player" hidden>
+    <button class="lb-close" id="lb-close" aria-label="Close player">&times;</button>
+    <button class="lb-nav lb-prev" id="lb-prev" aria-label="Previous">&lsaquo;</button>
+    <button class="lb-nav lb-next" id="lb-next" aria-label="Next">&rsaquo;</button>
+    <div class="lb-stage">
+      <div class="lb-media" id="lb-media"></div>
+      <div class="lb-info">
+        <h3 class="lb-title" id="lb-title"></h3>
+        <p class="lb-meta" id="lb-meta"></p>
+        <p class="lb-desc" id="lb-desc"></p>
+        <div class="lb-tags" id="lb-tags"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/site.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
