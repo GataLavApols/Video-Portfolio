@@ -17,7 +17,7 @@ window.PORTFOLIO_SITE = {
   phone: "+639209850413",
 
   // Accent colour used for highlights and buttons (any CSS colour works)
-  accent: "#e8546b",
+  accent: "#2563eb",
 
   // Social links — paste full URLs, or leave "" to hide the button
   links: {

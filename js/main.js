@@ -51,8 +51,19 @@
   var emptyEl = document.getElementById("empty");
 
   /* ---------- populate site info ---------- */
+  function hexToRgba(hex, alpha) {
+    hex = String(hex || "").replace("#", "");
+    if (hex.length === 3) hex = hex.replace(/./g, function (c) { return c + c; });
+    var n = parseInt(hex, 16);
+    if (isNaN(n)) return null;
+    return "rgba(" + ((n >> 16) & 255) + ", " + ((n >> 8) & 255) + ", " + (n & 255) + ", " + alpha + ")";
+  }
+
   function setupSite() {
-    document.documentElement.style.setProperty("--accent", site.accent || "#e8546b");
+    var accent = site.accent || "#2563eb";
+    document.documentElement.style.setProperty("--accent", accent);
+    var soft = hexToRgba(accent, 0.08);
+    if (soft) document.documentElement.style.setProperty("--accent-soft", soft);
 
     var title = site.name ? site.name + " — " + (site.role || "Portfolio") : "Portfolio";
     document.title = title;

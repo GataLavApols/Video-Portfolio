@@ -1,6 +1,6 @@
 {
-  "_note": "Optional per-reel details. Key = file name without extension. Set order to rearrange (1,2,3...). Set hide: true to remove from the site without deleting the file.",
-  "_example": { "title": "My best reel", "category": "Products", "description": "A short description of what this video shows.", "tags": ["hook", "product", "launch"], "order": 1 },
+  "_note": "Optional per-reel details. Key = path relative to videos/ without extension (e.g. \"Product Reels/my-reel\"), or just the file name. Categories come from the folder names in videos/ (root = General). Set order to rearrange (1,2,3...). Set hide: true to remove from the site without deleting the file.",
+  "_example": { "title": "My best reel", "description": "A short description of what this video shows.", "tags": ["hook", "product", "launch"], "order": 1 },
   "copy_0286DA4D-06B6-44AD-8CC6-AA2039020D5F": {
     "title": "Reel 01",
     "category": "Products",
